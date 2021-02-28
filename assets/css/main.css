@@ -1395,7 +1395,7 @@
 		-ms-transition: bottom 0.2s ease;
 		transition: bottom 0.2s ease;
 		position: fixed;
-		bottom: -20em;
+		bottom: -35em; /* change: 20 em to 50em */
 		color: #FFF;
 		left: 0;
 		width: 100%;
@@ -1445,7 +1445,7 @@
 			z-index: 10003;
 			background: #e74c3c;
 			padding: 2em;
-			height: 20em;
+			height: 35em; /* change: 20 em to 50em */
 		}
 
 			#footer .inner .content,
